@@ -186,11 +186,9 @@ export default function App() {
             />
           </div>
           <br />
-          <a href="#tabular">
             <button type="Submit" class="btn btn-light">
               "Click here to view Model"
             </button>
-          </a>
           <br />
           <br />
           <div>
