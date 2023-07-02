@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.label:after {
+  content: "DATA STRUCTURE";
+}
+.label:hover:after {
+  content: "REACT PROJECT (LINK GIVEN AT FOOTER)";
+}
