@@ -10,3 +10,5 @@ This project was submitted on 04/07/2023 to Mr.govindarajan(Amrita Vishwas Vidya
 one could use this same project or fork it and update this to a new project.
 
 there is no copyrights for this so one could use it under their domain.
+
+(Since all the dependencies were removed while upload  do install them before working on it on localhost )
