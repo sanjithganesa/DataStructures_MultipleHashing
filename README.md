@@ -1,14 +1,51 @@
-This project is done using the sand box developer tools.
-If one needs to access it on a local host it is recommended to download the zip file and download react and start a new app thence pushing these files into the same.
-if one needs to access in their sandbox one could download it and thence could start a new react project in codesandbox.io and pushing these files into the sandbox ( just by dragging them into the sand box file explorer).
-The contributors are as follows:
+## 📦 Usage Instructions
 
-1. Sanjith Ganesa P
+This project was developed using **CodeSandbox developer tools**. If you wish to use or test it on your local machine or sandbox environment, please follow the instructions below:
 
-This project was submitted on 04/07/2023 to Mr.govindarajan(Amrita Vishwas Vidyapeetham Coimbatore) as a model to represent multiple hash .
+### 🔧 Running Locally (via `localhost`)
 
-one could use this same project or fork it and update this to a new project.
+1. Download the ZIP file of the project.
+2. Create a new React app using:
 
-there is no copyrights for this so one could use it under their domain.
+   ```bash
+   npx create-react-app your-app-name
+   ```
+3. Replace the contents of the newly created `src/` folder with the files from this project.
+4. Install necessary dependencies (as these are not included in the upload):
 
-(Since all the dependencies were removed while upload  do install them before working on it on localhost )
+   ```bash
+   npm install
+   ```
+5. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+### 💻 Running in CodeSandbox
+
+1. Visit [https://codesandbox.io](https://codesandbox.io) and start a new React project.
+2. Drag and drop the downloaded project files into the sandbox’s file explorer.
+3. The sandbox will auto-detect and configure your dependencies.
+
+---
+
+## 👨‍🏫 Project Info
+
+* **Contributor:** Sanjith Ganesa P
+* **Submitted to:** Mr. Govindarajan
+* **Institution:** Amrita Vishwa Vidyapeetham, Coimbatore
+* **Date of Submission:** 04/07/2023
+* **Project Theme:** Implementation model to represent **multiple hash functions**
+
+---
+
+## 🔄 Licensing & Reuse
+
+This project is open and free to use.
+✅ You may **fork**, **modify**, or **reuse** this repository for your own academic or personal use.
+🚫 No copyright or license restrictions apply.
+
+> ⚠️ **Note:** All dependencies were removed during upload. Please ensure that the necessary packages are installed before attempting to run the project.
+
+---
