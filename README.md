@@ -32,7 +32,6 @@ This project was developed using **CodeSandbox developer tools**. If you wish to
 
 ## 👨‍🏫 Project Info
 
-* **Contributor:** Sanjith Ganesa P
 * **Submitted to:** Mr. Govindarajan
 * **Institution:** Amrita Vishwa Vidyapeetham, Coimbatore
 * **Date of Submission:** 04/07/2023
