@@ -29,6 +29,9 @@ This project was developed using **CodeSandbox developer tools**. If you wish to
 3. The sandbox will auto-detect and configure your dependencies.
 
 ---
+### SCREENSHOT
+<img width="785" height="803" alt="image" src="https://github.com/user-attachments/assets/d02cea48-d95d-4866-ae97-1917f65770c8" />
+---
 
 ## 👨‍🏫 Project Info
 
@@ -48,3 +51,4 @@ This project is open and free to use.
 > ⚠️ **Note:** All dependencies were removed during upload. Please ensure that the necessary packages are installed before attempting to run the project.
 
 ---
+
